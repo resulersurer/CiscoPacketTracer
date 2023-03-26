@@ -1,0 +1,5 @@
+1- Layer bit byte
+2- Layer Frame
+3- Layer IP
+4- Segment / Datagram
+5-6-7 Data
